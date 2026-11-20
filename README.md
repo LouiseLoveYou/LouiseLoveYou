@@ -17,6 +17,8 @@ After spending years investigating stories, verifying sources and structuring co
 **💻 Low-level & Systems**
 - Writing clean, leak-free C following the **42 Norm**.
 - Rebuilding standard library functions and system utilities from scratch 
+- Rebuilding standard library functions and system utilities from scratch 
+
 **🧠 Problem solving**
 - Breaking down complex problems into small, testable components.
 - Paying attention to edge cases, memory safety and code readability.
