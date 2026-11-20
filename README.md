@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="./eye.svg" width="100%" alt="ASCII Blinking Eye" />
+</div>
 
-<!--
-**LouiseLoveYou/LouiseLoveYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Louise — Software Engineering Student @ 42
 
-Here are some ideas to get you started:
+Former journalist, currently studying computer science at **42**.  
+Moved from investigating stories to debugging memory leaks and building systems from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+status   : studying @ 42
+focus    : C, C++, Unix/Linux, algorithms, low-level programming
+previous : journalism & editorial work
