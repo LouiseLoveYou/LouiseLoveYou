@@ -1,13 +1,28 @@
 <div align="center">
-  <img src="./eye.svg" width="100%" alt="ASCII Blinking Eye" />
+  <img src="./flowers.svg" width="100%" alt="ASCII Botanical Banner" />
 </div>
 
-### Louise — Software Engineering Student @ 42
+# 🌙 Louise (`Kisella`)
 
-Former journalist, currently studying computer science at **42**.  
-Moved from investigating stories to debugging memory leaks and building systems from scratch.
+## 📝 About
+
+Software engineering student at **42**, transitioning from a background in journalism.
+
+After spending years investigating stories, verifying sources and structuring complex information, I moved to low-level programming to understand how systems actually work under the hood — from memory management and pointers to Unix processes and algorithms.
+
+## 🔹 Focus areas
+
+**💻 Low-level & Systems**
+- Writing clean, leak-free C following the **42 Norm**.
+- Rebuilding standard library functions and system utilities from scratch (`libft`, `ft_printf`, `get_next_line`).
+
+**🧠 Problem solving**
+- Breaking down complex problems into small, testable components.
+- Paying attention to edge cases, memory safety and code readability.
+
+## ⚙️ Stack & Environment
 
 ```text
-status   : studying @ 42
-focus    : C, C++, Unix/Linux, algorithms, low-level programming
-previous : journalism & editorial work
+languages : C, C++, Bash
+tools     : Git, Make, GDB, Valgrind, Vim
+os        : Linux / Unix
